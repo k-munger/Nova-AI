@@ -29,9 +29,9 @@ References
 
 # Some references that we will be using in building Nova include:
 
-Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-Hands-On Natural Language Processing with Python by Rajesh Arumugam
-TensorFlow for Deep Learning by Bharath Ramsundar and Rebeca Mesquita
+[Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+[Hands-On Natural Language Processing with Python by Rajesh Arumugam](https://www.amazon.com/Hands-Natural-Language-Processing-Python/dp/178913949X)
+[TensorFlow for Deep Learning by Bharath Ramsundar and Rebeca Mesquita](https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451)
 
 # Contributing
 
