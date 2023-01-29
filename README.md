@@ -21,13 +21,18 @@ Tools
 # To build Nova, we will be using the following tools:
 
 Python
-PyTorch
-TensorFlow
-Pandas
-Matplotlib
-References
 
-# Some references that we will be using in building Nova include:
+PyTorch
+
+TensorFlow
+
+Pandas
+
+Matplotlib
+
+# References
+
+Some references that we will be using in building Nova include:
 
 [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://amzn.to/3XO2iUL)
 
