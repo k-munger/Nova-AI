@@ -11,14 +11,15 @@ Nova is for anyone who wants to take their productivity to the next level and st
 
 Nova will be capable of performing a variety of tasks, including:
 
-Organizing your schedule
-Automating daily routines
-Collecting and storing data locally
-Testing changes against your data to determine how life has improved
-Determining what is important to you and making changes to your schedule
-Tools
+- Organizing your schedule
+- Automating daily routines
+- Collecting and storing data locally
+- Testing changes against your data to determine how life has improved
+- Determining what is important to you and making changes to your schedule
 
-# To build Nova, we will be using the following tools:
+# Tools
+
+To build Nova, we will be using the following tools:
 
 Python
 
