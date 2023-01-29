@@ -21,15 +21,15 @@ Nova will be capable of performing a variety of tasks, including:
 
 To build Nova, we will be using the following tools:
 
-Python
+- [Python](https://www.python.org/downloads/)
 
-PyTorch
+- [PyTorch](https://pytorch.org)
 
-TensorFlow
+- [TensorFlow](https://www.tensorflow.org)
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
 # References
 
